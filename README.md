@@ -1,3 +1,11 @@
+This is a sample platform game you can reuse to quicky create a new game.
+It includes:
+* screen management: preloading, main menu, game menu, inter-level screens, end game
+* life counter
+* score
+
+Just delete the parts not relevant for your own game. 
+
 Credits
 =======
 
